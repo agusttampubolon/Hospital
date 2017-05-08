@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Hospital.Web/bin/Antlr3.Runtime.dll
+Hospital.Web/bin/Antlr3.Runtime.pdb
+Hospital.Web/bin/EntityFramework.dll
+Hospital.Web/bin/Microsoft.AspNet.Identity.Core.xml
+Hospital.Web/bin/EntityFramework.SqlServer.dll
+Hospital.Web/bin/Hospital.Web.dll
