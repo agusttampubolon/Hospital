@@ -64,6 +64,7 @@ D:\Project\Hospital\Hospital.Web\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Project\Hospital\Hospital.Web\bin\Microsoft.Owin.Security.Google.xml
 D:\Project\Hospital\Hospital.Web\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Project\Hospital\Hospital.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Project\Hospital\Hospital.Web\obj\Debug\Hospital.Web.csprojResolveAssemblyReference.cache
 D:\Project\Hospital\Hospital.Web\obj\Debug\Hospital.Web.dll
 D:\Project\Hospital\Hospital.Web\obj\Debug\Hospital.Web.pdb
+D:\Project\Hospital\Hospital.Web\obj\Debug\Hospital.Web.Migrations.test.resources
+D:\Project\Hospital\Hospital.Web\obj\Debug\Hospital.Web.csproj.GenerateResource.Cache

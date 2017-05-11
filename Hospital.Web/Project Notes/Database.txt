@@ -1,0 +1,8 @@
+﻿Untuk update database gunakan script dibawah:
+Klik Tools -> NuGet Package Manager -> Package Manager Console
+
+1. Add-Migration
+2. Update-Database -Verbose
+
+
+Yang dibutuhkan adalah LocalBD (SqlLocalDB) donload di https://www.microsoft.com/en-US/download/details.aspx?id=42299
