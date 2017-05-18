@@ -16,12 +16,21 @@
 
 </head>
 <body>
-    
-    @RenderBody()
+    <div id="wrapper">
+        <!-- Navigation -->
+        @Html.Partial("_Header");
+
+        <div id="page-wrapper">
+            <div class="row" id="ContentProperty">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
 
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     @Scripts.Render("~/bundles/jqueryval")
     @RenderSection("scripts", required: false)
+
 </body>
 </html>
